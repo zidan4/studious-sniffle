@@ -17,4 +17,4 @@ for choice in C:
   logit.fit(X, y)
   scores.append(logit.score(X, y))
 
-print(scores) 
+print(scores)
