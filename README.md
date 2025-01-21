@@ -2,7 +2,7 @@
 
 Machine Learning
 
-Grid Search and Logistic Regression
+Grid Search and Logistic Regression.
 
 
 Iris Dataset.
